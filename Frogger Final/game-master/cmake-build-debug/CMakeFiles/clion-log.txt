@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\jacko\Downloads\Frogger Final\game-master"
+-- Using vendored Catch2 library (C:/Users/jacko/Downloads/Frogger Final/game-master/.cs211/lib/catch)
+-- Using vendored Ge211 library (C:/Users/jacko/Downloads/Frogger Final/game-master/.cs211/lib/ge211)
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/jacko/Downloads/Frogger Final/game-master/cmake-build-debug
